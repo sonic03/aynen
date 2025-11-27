@@ -101,7 +101,7 @@ Aynen Ajans ile iletişime geçin. SEO, Google Ads, sosyal medya yönetimi ve re
                                                                                         <div class="item--meta">
                                                                                             <h4 class="item--title"> Adres</h4>
                                                                                             <div class="item--description">
-                                                                                                Fevzipaşa - Vehbibey,<br> Perşembe Sokak,<br>
+                                                                                                Fevzipaşa - Vehbibey,<br> Perşembe Sokak, No:6<br>
                                                                                                  10400 Ayvalık/Balıkesir
                                                                                                 </div>
                                                                                         </div>

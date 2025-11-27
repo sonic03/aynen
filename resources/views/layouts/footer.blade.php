@@ -33,7 +33,7 @@
                                                     data-wow-delay="ms">
                                                     <div class="ct-inline-css" data-css="
  "></div>
-                                                    <div class="ct-text-editor elementor-clearfix"> Fevzipaşa - Vehbibey, Perşembe Sokak, 10400 Ayvalık/Balıkesir</div>
+                                                    <div class="ct-text-editor elementor-clearfix"> Fevzipaşa - Vehbibey, Perşembe Sokak, No:6, 10400 Ayvalık/Balıkesir</div>
                                                 </div>
                                             </div>
                                         </div>

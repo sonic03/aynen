@@ -65,4 +65,9 @@ class Kernel extends HttpKernel
         'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
         'voyager' => \TCG\Voyager\Http\Middleware\VoyagerAdminMiddleware::class,
     ];
+
+    protected function schedule(Schedule $schedule)
+    {
+        $schedule->command('generate:sitemap')->daily();
+    }
 }

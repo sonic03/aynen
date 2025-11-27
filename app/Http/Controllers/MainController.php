@@ -67,7 +67,7 @@ class MainController extends Controller
     {   
         $webs = [
             ['file_path'=>'coskun_desktop.png','site'=>'https://coskunzeytincilik.com','name'=>'COSKUN ZEYTİNCLİK','category'=>'E-ticaret'],
-            ['file_path'=>'barbun_desktop.png','site'=>'https://barbununcifligi.com','name'=>'BARBUNUN ÇİFTLİĞİ','category'=>'E-ticaret'],
+            ['file_path'=>'barbun_desktop.png','site'=>'https://barbununciftligi.com','name'=>'BARBUNUN ÇİFTLİĞİ','category'=>'E-ticaret'],
             ['file_path'=>'eye_desktop.png','site'=>'https://www.eyetechgozluk.com/','name'=>'EYE TECH','category'=>'B2B'],
             ['file_path'=>'oloa_desktop.png','site'=>'https://www.oloacoffee.com/','name'=>'OLOA COFFE','category'=>'Kurumsal'],
             ['file_path'=>'gusto_desktop.png','site'=>'https://thegusto.com.tr','name'=>'THE GUSTO','category'=>'Kurumsal'],
