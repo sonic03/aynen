@@ -113,6 +113,14 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
      #ct_heading-75c6aed1 .item--sub-title{
         color:white !important;
     }
+    @media screen and (max-width:640px) {
+        #ct_text_editor-2469a048 .ct-text-editor,
+        #ct_text_editor-79ee7c41 .ct-text-editor a,
+        #ct_text_editor-60b6ce09 .ct-text-editor a
+         {
+           color:white !important;
+        }
+    }
 </style>
 <style id='grupi-theme-inline-css' type='text/css'> :root{--primary-color: #f9bd0e;--secondary-color: #000000;--m_gradient_color1-color: #1471e2;--m_gradient_color2-color: #29b7bc;--m_gradient_color3-color: #11b647;--m_gradient_color4-color: #ffa500;--m_gradient_color5-color: #ec0043;--primary-color-rgb: 249,189,14;--secondary-color-rgb: 0,0,0;--m_gradient_color1-color-rgb: 20,113,226;--m_gradient_color2-color-rgb: 41,183,188;--m_gradient_color3-color-rgb: 17,182,71;--m_gradient_color4-color-rgb: 255,165,0;--m_gradient_color5-color-rgb: 236,0,67;--link-color: #f9bd0e;--link-color-hover: #ffde00;--link-color-active: #ffde00;--gradient-color-from: #f4a21a;--gradient-color-to: #ffde00;--gradient-color-from-rgb: 244,162,26;--gradient-color-to-rgb: 255,222,0;}
  @media screen and (max-width: 1199px) {

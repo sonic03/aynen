@@ -75,7 +75,7 @@ Aynen Ajans’ın SEO, Google Ads, sosyal medya ve tasarım projelerini inceleyi
                                                                                     <div class="ct-heading-text-below">
                                                                                         Portfolio</div>
                                                                                     <h3 class="item--title case-animate-time st-hexagon " style="text-align:center"
-                                                                                        data-wow-delay="ms"> <span>Bİr KAÇ </span><span><cite>ÇALIŞMAMIZ</cite></span>
+                                                                                        data-wow-delay="ms"> <span>BİrKAÇ </span><span><cite>ÇALIŞMAMIZ</cite></span>
                                                                                     </h3>
                                                                                 </div>
                                                                             </div>

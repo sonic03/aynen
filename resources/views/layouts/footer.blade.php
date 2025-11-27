@@ -99,7 +99,7 @@
                                                             <li id="menu-item-121"
                                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121">
                                                                 <a
-                                                                    href="#"><span>Hizmetlerimiz</span></a>
+                                                                    href="{{ route('services') }}"><span>Hizmetlerimiz</span></a>
                                                             </li>
                                                             <li id="menu-item-120"
                                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120">
