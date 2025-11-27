@@ -121,7 +121,7 @@
                                         </li>
                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5954"><a href="{{ route('portfolio') }}" class="is-one-page" data-onepage-offset="80"><span>PORTFOLYO</span></a></li>
                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5955"><a href="{{ route('services') }}" class="is-one-page" data-onepage-offset="80"><span>HİZMETLERİMİZ</span></a></li>
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5956"><a href="#section-contact" class="is-one-page" data-onepage-offset="80"><span>İLETİŞİM</span></a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5956"><a href="{{ route('contact') }}" class="is-one-page" data-onepage-offset="80"><span>İLETİŞİM</span></a></li>
                                         <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5957"><a href="#section-blog" class="is-one-page" data-onepage-offset="80"><span>Blog</span></a></li> -->
                                     </ul>
                                 </div>
