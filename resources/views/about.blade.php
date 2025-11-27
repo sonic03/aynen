@@ -143,7 +143,7 @@ Aynen Ajans, deneyimli reklam, tasarım ve prodüksiyon ekibiyle markalara yarat
                                                                             <div class="elementor-widget-container">
                                                                                 <div id="ct_text_editor-60524e8" class="ct-text-editor "
                                                                                     data-wow-delay="ms">
-                                                                                    <div class="ct-text-editor elementor-clearfix"> Markaların dijitaldeki sesi olma yolculuğumuz 2 yıl önce Ayvalık’ta başladı. Aynen Ajans olarak, her markanın kendi tonunu, kimliğini ve hikayesini en net şekilde ortaya koyması gerektiğine inanıyoruz. Bu nedenle her projeye şablon çözümler yerine özgün dijital çözümler anlayışıyla yaklaşıyoruz.
+                                                                                    <div class="ct-text-editor elementor-clearfix"> Markaların dijitaldeki sesi olma yolculuğumuz 2023 yılında Ayvalık’ta başladı. Aynen Ajans olarak, her markanın kendi tonunu, kimliğini ve hikayesini en net şekilde ortaya koyması gerektiğine inanıyoruz. Bu nedenle her projeye şablon çözümler yerine özgün dijital çözümler anlayışıyla yaklaşıyoruz.
 
 Her markanın ihtiyaçlarını detaylı analiz ediyor, hedef kitlesine en doğru şekilde ulaşması için stratejik dijital planlar oluşturuyoruz. Ürettiğimiz her içerik, markanıza değer katmayı, dikkat çekmeyi ve dijitalde görünürlük sağlamayı hedefler.
 
