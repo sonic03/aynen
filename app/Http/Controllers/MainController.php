@@ -90,14 +90,15 @@ class MainController extends Controller
 
             Log::info('İletişim formu gönderildi:', $data);
 
-            $phone = isset($data['phone']) ? $data['phone'] : '';     
+            $phone = isset($data['phone']) ? $data['phone'] : '';
+            $emails = explode(',', env('MAIL_TO_ADDRESSES'));     
             Mail::raw("
             İsim: {$data['name']}
             Email: {$data['email']}
             Telefon: {$phone}
             Mesaj: {$data['content']}
-            ", function ($message) {
-                $message->to('info@aynenajans.com')
+            ", function ($message) use ($emails) {
+                $message->to($emails)
                         ->subject('Yeni İletişim Formu Mesajı');
             });
 
